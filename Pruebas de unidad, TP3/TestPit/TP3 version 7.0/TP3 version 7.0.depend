@@ -1,0 +1,177 @@
+# depslib dependency file v1.0
+1384058596 source:c:\users\joel\desktop\tp3 version 7.0\main.cpp
+	<iostream>
+	"mapa.h"
+	"social_network.h"
+	"pair.h"
+	"person.h"
+
+1384058619 c:\users\joel\desktop\tp3 version 7.0\mapa.h
+	<iostream>
+	"pair.h"
+
+1381888902 c:\users\joel\desktop\tp3 version 7.0\pair.h
+
+1384055662 c:\users\joel\desktop\tp3 version 7.0\social_network.h
+	<string>
+	"graph.h"
+	"person.h"
+
+1384058868 c:\users\joel\desktop\tp3 version 7.0\graph.h
+	"person.h"
+	<fstream>
+	<ostream>
+	<string>
+	"mapa.h"
+	<iostream>
+	<iterator>
+
+1382447625 c:\users\joel\desktop\tp3 version 7.0\person.h
+	<string>
+
+1382447038 source:c:\users\joel\desktop\tp3 version 7.0\graph.cpp
+	"graph.h"
+	<iostream>
+	<iterator>
+	<string>
+
+1381961056 source:c:\users\joel\desktop\tp3 version 7.0\person.cpp
+	"person.h"
+	<iostream>
+	<sstream>
+
+1384058366 source:c:\users\joel\desktop\tp3 version 7.0\social_network.cpp
+	"social_network.h"
+	<iostream>
+	<sstream>
+	<cstring>
+
+1381961056 source:c:\users\joel\desktop\testpit\tp3 version 7.0\person.cpp
+	"person.h"
+	<iostream>
+	<sstream>
+
+1382447625 c:\users\joel\desktop\testpit\tp3 version 7.0\person.h
+	<string>
+
+1384058366 source:c:\users\joel\desktop\testpit\tp3 version 7.0\social_network.cpp
+	"social_network.h"
+	<iostream>
+	<sstream>
+	<cstring>
+
+1384055662 c:\users\joel\desktop\testpit\tp3 version 7.0\social_network.h
+	<string>
+	"graph.h"
+	"person.h"
+
+1384059201 c:\users\joel\desktop\testpit\tp3 version 7.0\graph.h
+	"person.h"
+	<fstream>
+	<ostream>
+	<string>
+	"mapa.h"
+	<iostream>
+	<iterator>
+
+1384058619 c:\users\joel\desktop\testpit\tp3 version 7.0\mapa.h
+	<iostream>
+	"pair.h"
+
+1381888902 c:\users\joel\desktop\testpit\tp3 version 7.0\pair.h
+
+1384568119 source:c:\users\joel\desktop\testpit\tp3 version 7.0\graph_test.cpp
+	"graph.h"
+	"person.h"
+	"UnitTest++.h"
+	<iostream>
+	<fstream>
+
+1384048744 c:\users\joel\desktop\testpit\unittest++\src\unittest++.h
+	"Config.h"
+	"Test.h"
+	"TestList.h"
+	"TestSuite.h"
+	"TestResults.h"
+	"TestMacros.h"
+	"CheckMacros.h"
+	"TestRunner.h"
+	"TimeConstraint.h"
+
+1384048744 c:\users\joel\desktop\testpit\unittest++\src\config.h
+
+1384048744 c:\users\joel\desktop\testpit\unittest++\src\test.h
+	"TestDetails.h"
+
+1384048744 c:\users\joel\desktop\testpit\unittest++\src\testdetails.h
+
+1384048744 c:\users\joel\desktop\testpit\unittest++\src\testlist.h
+
+1384048744 c:\users\joel\desktop\testpit\unittest++\src\testsuite.h
+
+1384048744 c:\users\joel\desktop\testpit\unittest++\src\testresults.h
+
+1384048744 c:\users\joel\desktop\testpit\unittest++\src\testmacros.h
+	"Config.h"
+	"ExecuteTest.h"
+	"AssertException.h"
+	"TestDetails.h"
+	"MemoryOutStream.h"
+	"Posix/SignalTranslator.h"
+
+1384048744 c:\users\joel\desktop\testpit\unittest++\src\executetest.h
+	"TestDetails.h"
+	"MemoryOutStream.h"
+	"AssertException.h"
+	"CurrentTest.h"
+	"Posix/SignalTranslator.h"
+
+1384048744 c:\users\joel\desktop\testpit\unittest++\src\memoryoutstream.h
+	"Config.h"
+	<sstream>
+	<cstddef>
+
+1384048744 c:\users\joel\desktop\testpit\unittest++\src\assertexception.h
+	<exception>
+
+1384048744 c:\users\joel\desktop\testpit\unittest++\src\currenttest.h
+
+1384048744 c:\users\joel\desktop\testpit\unittest++\src\posix\signaltranslator.h
+	<setjmp.h>
+	<signal.h>
+
+1384048744 c:\users\joel\desktop\testpit\unittest++\src\checkmacros.h
+	"Checks.h"
+	"AssertException.h"
+	"MemoryOutStream.h"
+	"TestDetails.h"
+	"CurrentTest.h"
+
+1384048744 c:\users\joel\desktop\testpit\unittest++\src\checks.h
+	"Config.h"
+	"TestResults.h"
+	"MemoryOutStream.h"
+
+1384048744 c:\users\joel\desktop\testpit\unittest++\src\testrunner.h
+	"Test.h"
+	"TestList.h"
+	"CurrentTest.h"
+
+1384048744 c:\users\joel\desktop\testpit\unittest++\src\timeconstraint.h
+	"TimeHelpers.h"
+
+1384048744 c:\users\joel\desktop\testpit\unittest++\src\timehelpers.h
+	"Config.h"
+	"Posix/TimeHelpers.h"
+	"Win32/TimeHelpers.h"
+
+1384048744 c:\users\joel\desktop\testpit\unittest++\src\posix\timehelpers.h
+	<sys/time.h>
+
+1384048745 c:\users\joel\desktop\testpit\unittest++\src\win32\timehelpers.h
+	"../Config.h"
+
+1384059228 source:c:\users\joel\desktop\testpit\tp3 version 7.0\main.cpp
+	"UnitTest++.h"
+	<cstdio>
+

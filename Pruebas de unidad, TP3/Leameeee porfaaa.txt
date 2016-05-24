@@ -1,0 +1,6 @@
+Hola! Las pruebas se encuentran en la carpeta que dice TestPit,
+puse otra carpeta que se llama "unit test"  que es el programa, es que en mi compu no funciona si
+unit test no esta (aunque no tenga nada que ver), tonses por si acaso lo pongo!
+
+
+Gracias Dagoberto

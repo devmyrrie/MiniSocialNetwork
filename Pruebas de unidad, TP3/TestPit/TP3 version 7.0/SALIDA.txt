@@ -1,0 +1,18 @@
+C:\Users\Joel\Desktop\TestPit\TP3 version 7.0\graph_test.cpp:62: error: Failure in agregar_personas: Expected 1 but was 0
+C:\Users\Joel\Desktop\TestPit\TP3 version 7.0\graph_test.cpp:66: error: Failure in agregar_personas: Expected 1 but was 0
+C:\Users\Joel\Desktop\TestPit\TP3 version 7.0\graph_test.cpp:69: error: Failure in agregar_personas: Expected 1 but was 0
+C:\Users\Joel\Desktop\TestPit\TP3 version 7.0\graph_test.cpp:73: error: Failure in agregar_personas: Expected 1 but was 0
+C:\Users\Joel\Desktop\TestPit\TP3 version 7.0\graph_test.cpp:76: error: Failure in agregar_personas: Expected 1 but was 0
+C:\Users\Joel\Desktop\TestPit\TP3 version 7.0\graph_test.cpp:79: error: Failure in agregar_personas: Expected 1 but was 0
+C:\Users\Joel\Desktop\TestPit\TP3 version 7.0\graph_test.cpp:82: error: Failure in agregar_personas: Expected 1 but was 0
+C:\Users\Joel\Desktop\TestPit\TP3 version 7.0\graph_test.cpp:94: error: Failure in eliminar_persona: Expected 1 but was 0
+C:\Users\Joel\Desktop\TestPit\TP3 version 7.0\graph_test.cpp:97: error: Failure in eliminar_persona: Expected 1 but was 0
+C:\Users\Joel\Desktop\TestPit\TP3 version 7.0\graph_test.cpp:101: error: Failure in eliminar_persona: Expected 1 but was 0
+C:\Users\Joel\Desktop\TestPit\TP3 version 7.0\graph_test.cpp:104: error: Failure in eliminar_persona: Expected 1 but was 0
+C:\Users\Joel\Desktop\TestPit\TP3 version 7.0\graph_test.cpp:138: error: Failure in agregar_numero: Expected 0 but was 1
+C:\Users\Joel\Desktop\TestPit\TP3 version 7.0\graph_test.cpp:147: error: Failure in agregar_numero: Expected 1 but was 0
+C:\Users\Joel\Desktop\TestPit\TP3 version 7.0\graph_test.cpp:154: error: Failure in agregar_numero: Expected 1 but was 0
+C:\Users\Joel\Desktop\TestPit\TP3 version 7.0\graph_test.cpp:171: error: Failure in eliminar_numero: Expected 1 but was 0
+C:\Users\Joel\Desktop\TestPit\TP3 version 7.0\graph_test.cpp:205: error: Failure in buscar_numero: Expected 1 but was 0
+FAILURE: 5 out of 6 tests failed (16 failures).
+Test time: 0.00 seconds.
